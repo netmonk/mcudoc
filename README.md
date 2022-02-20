@@ -6,8 +6,17 @@ Using different computer and laptops for this, it's always difficult to have sam
 
 Also documentations is often widespread and sometime hard to find. If this repo can help others it would make me happy.
 
+### How to contribute ?
+
+Well there is no dufined worflow, i guess the usual way to fork this repo, commit and send a merge request is the standard way.
+Also openning an issue with the pdf file you want to add is less burden for you and this way i will be happy to integrate you submitted file as fas as possible 
+
+
+### Farewell
+
 **Happy coding, have a nice weekend** (cause like 99% of MCU pragrammer, you try to ecape the boreness off a full working week of Java coding by having fun with low level programming those little gadget at least to monitor room temperature in a hand made digital way that report data to backoffice and impress wifey with this shining grafana dashboard running on the raspi she often complains about)  
 
+## Content list (with the help of `find *` and `vim` 
 
 ### display
 display/i2c
