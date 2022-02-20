@@ -25,6 +25,7 @@ display/i2c
 ### esp32
 esp32/xtensa
 - esp32/xtensa/esp32_datasheet_en.pdf
+
 esp32/riscv
 - esp32/riscv/esp32-c3_technical_reference_manual_en.pdf
 - esp32/riscv/esp32-c3_datasheet_en.pdf
