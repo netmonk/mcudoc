@@ -1,20 +1,20 @@
 # Datasheet collections
 
-This repository is aimed to store and centralise all datasheet and manuals i used for various micrcontrollers and peripherials.
+This repository is aimed to store and centralise all datasheet and manuals i used for various microcontrollers and peripherials.
 
-Using different computer and laptops for this, it's always difficult to have same level of information on each rig. Therefore centralising and versionning it help to solve this problem.
+Using different computers and laptops for this, it's always difficult to have same level of information on each rig. Therefore centralising and versionning it help to solve this problem.
 
-Also documentations is often widespread and sometime hard to find. If this repo can help others it would make me happy.
+Also documentation is often widespread and sometime hard to find. If this repo can help others it would make me happy.
 
 ### How to contribute ?
 
-Well there is no dufined worflow, i guess the usual way to fork this repo, commit and send a merge request is the standard way.
-Also openning an issue with the pdf file you want to add is less burden for you and this way i will be happy to integrate you submitted file as fas as possible 
+Well there is no defined worflow, i guess the usual way to fork this repo, commit and send a merge request is the standard way.
+Also openning an issue with the pdf file you want to add is less burden for you and this way i will be happy to integrate you submitted file as fast as possible 
 
 
 ### Farewell
 
-**Happy coding, have a nice weekend** (cause like 99% of MCU programmers, you try to escape the boreness off a full working week of Java coding by having fun with low level programming little gadget to at least to monitor room temperature in a hand-made digital way that reports data to backend and impress wifey with this shining grafana dashboard running on the raspi she often complains about)  
+**Happy coding, have a nice weekend** (cause like 99% of MCU programmers, you try to escape the boreness off a full working week of Java coding by having fun with low level programming little gadget to at least monitor room temperature in a hand-made digital way that reports data to backend and impress wifey with this shining grafana dashboard running on the raspi she often complains about)  
 
 ## Content list (with the help of `find *` and `vim`) 
 
