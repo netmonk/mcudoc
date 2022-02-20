@@ -16,7 +16,7 @@ Also openning an issue with the pdf file you want to add is less burden for you 
 
 **Happy coding, have a nice weekend** (cause like 99% of MCU pragrammer, you try to ecape the boreness off a full working week of Java coding by having fun with low level programming those little gadget at least to monitor room temperature in a hand made digital way that report data to backoffice and impress wifey with this shining grafana dashboard running on the raspi she often complains about)  
 
-## Content list (with the help of `find *` and `vim` 
+## Content list (with the help of `find *` and `vim`) 
 
 ### display
 display/i2c
