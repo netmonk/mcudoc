@@ -24,16 +24,21 @@ display/i2c
 
 ### esp32
 esp32/xtensa
-- esp32/xtensa/esp32_datasheet_en.pdf
 - esp32/xtensa/esp32-s3_technical_reference_manual_en.pdf
+- esp32/xtensa/esp32-datasheet.pdf
 - esp32/xtensa/esp32-s3_datasheet_en.pdf
+- esp32/xtensa/0c-esp-wroom-02_datasheet_en.pdf
 - esp32/xtensa/esp32-s2_technical_reference_manual_en.pdf
+- esp32/xtensa/TTGO LoRa32 V2.0 Pinout v3.0.pdf
+- esp32/xtensa/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
 - esp32/xtensa/esp32-s2_datasheet_en.pdf
-
+- esp32/xtensa/esp32_datasheet_en.pdf
 
 esp32/riscv
 - esp32/riscv/esp32-c3_technical_reference_manual_en.pdf
 - esp32/riscv/esp32-c3_datasheet_en.pdf
+- esp32/riscv/esp32-c3-wroom-02_datasheet_en.pdf
+- esp32/riscv/esp32-c3-mini-1_datasheet_en.pdf
 
 ### lorachip
 - lorachip/DS_SX1276-7-8-9_W_APP_V7.pdf
