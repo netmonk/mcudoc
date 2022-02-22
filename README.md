@@ -24,15 +24,42 @@ display/i2c
 
 ### esp32
 esp32/xtensa
-- esp32/xtensa/esp32-s3_technical_reference_manual_en.pdf
-- esp32/xtensa/esp32-datasheet.pdf
-- esp32/xtensa/esp32-s3_datasheet_en.pdf
-- esp32/xtensa/0c-esp-wroom-02_datasheet_en.pdf
+- esp32/xtensa/ESP32-A1S-Ai-Thinker_C277945.pdf
+- esp32/xtensa/ESP32 WIFI_LoRa_32_V1.pdf
+- esp32/xtensa/ESP32-CAM-programming.webp
+- esp32/xtensa/ESP32 TTGO-LORA_V1.3_schematic.pdf
+- esp32/xtensa/esp32 ttgo-watch-peripherals.jpg
+- esp32/xtensa/ESP32 LILYGO TTGO LORA.V1.3.pdf
 - esp32/xtensa/esp32-s2_technical_reference_manual_en.pdf
+- esp32/xtensa/ESP32-CAM Product Specification.pdf
+- esp32/xtensa/ESP32 WIFI_LoRa_32_V2.1(868-915).PDF
+- esp32/xtensa/esp32 heltec wireless_stick_lite_sch_diagram_V2.1.pdf
+- esp32/xtensa/ESP32-A1S Product Specification.pdf
+- esp32/xtensa/esp32-NodeMCU-32S-ESP32-Development-Board.pdf
 - esp32/xtensa/TTGO LoRa32 V2.0 Pinout v3.0.pdf
-- esp32/xtensa/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+- esp32/xtensa/ESP32-DevKitC_GSG_Ver1.4_2017.pdf
 - esp32/xtensa/esp32-s2_datasheet_en.pdf
+- esp32/xtensa/ESP32 Heltec Wireless_Stick_Lite.pdf
+- esp32/xtensa/esp32_heltec-WIFI_LoRa_32_V2.pdf
+- esp32/xtensa/ESP32-CAM-pinout-new.webp
+- esp32/xtensa/0c-esp-wroom-02_datasheet_en.pdf
+- esp32/xtensa/ESP32 heltec-WIFI_LoRa_32_V2.1.pdf
+- esp32/xtensa/ESP32 Heltec Wireless_Shell.pdf
+- esp32/xtensa/esp32 - nodemcu_32s_pin.png
+- esp32/xtensa/esp32-heltec-stick-lite-0001-info.pdf
+- esp32/xtensa/esp32-datasheet.pdf
+- esp32/xtensa/ESP32_Heltec_Wireless_Stick_Lite.pdf
+- esp32/xtensa/ESP32 TTGO_LORA_V1.3.pdf
+- esp32/xtensa/esp32 heltec wireless_stick_lite_sch_diagram_V2.0.pdf
+- esp32/xtensa/ESP32_S3_WROOM_1_1U_Preliminary-2530171.pdf
+- esp32/xtensa/esp32-s3_technical_reference_manual_en.pdf
+- esp32/xtensa/esp32-s3_datasheet_en.pdf
 - esp32/xtensa/esp32_datasheet_en.pdf
+- esp32/xtensa/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+- esp32/xtensa/ESP32 WIFI_LoRa_32_V2(868-915).PDF
+- esp32/xtensa/esp32 heltec wireless_shell_reference_hardware_design.pdf
+- esp32/xtensa/ESP32-CAM-dfrobot-datasheetpdf
+
 
 esp32/riscv
 - esp32/riscv/esp32-c3_technical_reference_manual_en.pdf
@@ -56,6 +83,7 @@ esp32/riscv
 - misc/undocumented_x86_insts_for_uarch_control.pdf
 
 ### powermgt
+- powermgt/AXP202 Datasheet_v1.0_en..pdf
 - powermgt/2020_infrasonic_wildfire_detector_APX192_Enhanced_Single_Cell_datasheet_en.pdf
 - powermgt/AXP192_datasheet_en.pdf
 
