@@ -94,3 +94,8 @@ esp32/riscv
 - riscv/fe310-g002-manual-v19p05.pdf
 - riscv/GD32VF103_Datasheet_Rev 1.1.pdf
 - riscv/GD32VF103_User_Manual_EN_V1.2.pdf
+
+### imu
+- imu/dm00103319-1798035.pdf
+- imu/TDK_DS-000481-IAM-20680HT-Rev.1.0-TYP.pdf
+
