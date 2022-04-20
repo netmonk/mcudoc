@@ -78,6 +78,7 @@ esp32/riscv
 - lorachip/E220-900M30S_UserManual_EN_v1.0.pdf
 - lorachip/E19-868M30S_UserManual_CN_v1.3.pdf
 - lorachip/DS_LLCC68_V1.0.pdf
+- lorachip/LR1120_data_sheet_V1_1.pdf
 
 ### misc
 - misc/undocumented_x86_insts_for_uarch_control.pdf
